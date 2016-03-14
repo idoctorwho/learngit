@@ -1,3 +1,4 @@
+#! /usr/bin/env
 This is a test.
 This file has some changge.
 >>>>>>> feature1
